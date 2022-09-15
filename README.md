@@ -1,6 +1,6 @@
 # kodlamaio.com java kursu  
 
-## HAFTA 1## 
+## HAFTA 1
 - VERİ TİPLERİ 
 - İF ELSE KOŞUL DEYİMLERİ 
 - FOR  - WHILE - DO WHILE DÖNGÜSÜ 
