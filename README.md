@@ -15,7 +15,7 @@
 ## HAFTA 3
 
 - OOP YAPISI 
-- Inheritance 
-- Abstract Class
-- Interface 
-- Polymorphism
+- INHERITANCE
+- ABSTRACT CLASS
+- INTERFACE 
+- POLYMORPHISM
