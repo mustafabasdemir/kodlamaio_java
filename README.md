@@ -11,3 +11,11 @@
 ## HAFTA 2 
 
 - OOP YAPISI 
+
+## HAFTA 3
+
+- OOP YAPISI 
+- Inheritance 
+- Abstract Class
+- Interface 
+- Polymorphism
